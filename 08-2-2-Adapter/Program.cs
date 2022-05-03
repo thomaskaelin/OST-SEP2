@@ -19,7 +19,7 @@
             var ducks = new List<Duck>
             {
                 new MallardDuck(), 
-                new ReadheadDuck(), 
+                new RedheadDuck(), 
                 new RubberDuck(), 
                 new DecoyDuck(),
                 new DonaldDuck(),

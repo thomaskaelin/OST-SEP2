@@ -4,13 +4,13 @@
     using Strategy.Fly;
     using Strategy.Quack;
 
-    public sealed class ReadheadDuck : Duck
+    public sealed class RedheadDuck : Duck
     {
-        public ReadheadDuck()
+        public RedheadDuck()
             : base(new DuckQuackStrategy(), new RealFlyStrategy())
         {
         }
 
-        public override void Display() => Console.WriteLine("Read head, gray body.");
+        public override void Display() => Console.WriteLine("Red head, gray body.");
     }
 }

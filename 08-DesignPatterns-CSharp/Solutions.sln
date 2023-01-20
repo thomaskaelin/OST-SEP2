@@ -19,10 +19,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "08-2-2-Adapter-S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "08-2-3-Decorator-Solution\Decorator.csproj", "{3B360441-8613-4330-B7CC-7B04A18D25D7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09 Refactoring Kata", "09 Refactoring Kata", "{A12B8E8E-44FB-400E-91A6-0BF351B6AF97}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GildedRose", "09-GildedRose-Solution\GildedRose.csproj", "{8FBA413F-3618-4ADD-8376-2038F852CB7A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,10 +49,6 @@ Global
 		{3B360441-8613-4330-B7CC-7B04A18D25D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B360441-8613-4330-B7CC-7B04A18D25D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B360441-8613-4330-B7CC-7B04A18D25D7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8FBA413F-3618-4ADD-8376-2038F852CB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8FBA413F-3618-4ADD-8376-2038F852CB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8FBA413F-3618-4ADD-8376-2038F852CB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8FBA413F-3618-4ADD-8376-2038F852CB7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,7 +60,6 @@ Global
 		{DB1B5A85-17D0-43A1-875D-1673319CAD06} = {D2BFD00F-0FAB-4EB8-AFBD-1716127C7B13}
 		{BA0D8B32-3B40-434D-A822-45341BBFE42C} = {D2BFD00F-0FAB-4EB8-AFBD-1716127C7B13}
 		{3B360441-8613-4330-B7CC-7B04A18D25D7} = {D2BFD00F-0FAB-4EB8-AFBD-1716127C7B13}
-		{8FBA413F-3618-4ADD-8376-2038F852CB7A} = {A12B8E8E-44FB-400E-91A6-0BF351B6AF97}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8890A488-9F68-4C2A-811A-446F77388141}

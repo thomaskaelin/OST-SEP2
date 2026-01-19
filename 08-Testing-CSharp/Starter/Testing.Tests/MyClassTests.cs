@@ -13,7 +13,7 @@ public class MyClassTests
     public void DoLoop_LogsMessages()
     {
         _testee.DoLoop();
-        
+
         Assert.Fail("Exercise 1: Verify all messages logged by MyClass.DoLoop()");
     }
 }

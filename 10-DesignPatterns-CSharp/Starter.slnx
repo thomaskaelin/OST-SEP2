@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/10-1 GoF Design Patterns/">
+    <Project Path="10-1-1-Observer/Observer.csproj" />
+    <Project Path="10-1-2-State/State.csproj" />
+    <Project Path="10-1-3-Strategy/Strategy.csproj" />
+  </Folder>
+  <Folder Name="/10-2 GoF Design Patterns/">
+    <Project Path="10-2-1-SimpleFactory/SimpleFactory.csproj" />
+    <Project Path="10-2-2-Adapter/Adapter.csproj" />
+    <Project Path="10-2-3-Decorator/Decorator.csproj" />
+  </Folder>
+</Solution>

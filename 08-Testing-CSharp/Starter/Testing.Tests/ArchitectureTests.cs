@@ -1,0 +1,23 @@
+namespace Testing.Tests;
+
+using ArchUnitNET.Domain;
+using ArchUnitNET.Loader;
+using ArchUnitNET.Fluent;
+using ArchUnitNET.xUnit;
+
+using static ArchUnitNET.Fluent.ArchRuleDefinition;
+
+public class ArchitectureTests
+{
+    [Fact]
+    public void TypesInProductiveCode_MustNotDirectlyAccessSystemConsole()
+    {
+        Assert.Fail("Exercise 2: Verify that types in Testing do not access Console.WriteLine()");
+    }
+    
+    [Fact]
+    public void TestDoublesInTestCode_MustHavePrefixFakeInClassName()
+    {
+        Assert.Fail("Exercise 2: Verify that test doubles defined in Testing.Tests have the prefix Fake in the class name");
+    }
+}
